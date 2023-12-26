@@ -18,5 +18,7 @@ public class Main {
         System.out.println("Maximum of Apple, Banana, Peach: " + Max_Min.findMax("Apple", "Banana", "Peach")); // tc 3.1
         System.out.println("Maximum of Peach, Apple, Banana: " + Max_Min.findMax("Peach","Apple", "Banana")); // tc 3.2
         System.out.println("Maximum of Apple, Peach, Banana: " + Max_Min.findMax("Apple", "Peach", "Banana")); // tc 3.3
+
+        System.out.println(Max_Min.findMax(2, 3, 340, 5, 42)); //multiple parameters
     }
 }
