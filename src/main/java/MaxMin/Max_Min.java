@@ -27,4 +27,18 @@ public class Max_Min {
 
         return max;
     }
+
+    public static String findMax(String x, String y, String z) {
+        String max = x; // Assume x is initially the largest
+
+        if (y.compareTo(max) > 0) {
+            max = y; // y is larger
+        }
+
+        if (z.compareTo(max) > 0) {
+            max = z; // z is larger
+        }
+
+        return max;
+    }
 }
