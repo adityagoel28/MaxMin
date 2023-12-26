@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2338fde7-b9aa-47b4-9758-f49cf0444914" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/MaxMin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxMin/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MaxMin/Max_Min.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxMin/Max_Min.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "UC__3__String__Comparison",
+    "git-widget-placeholder": "UC__5__Print__Using__Generic__Method",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703603261868</updated>
-      <workItem from="1703603262948" duration="5104000" />
+      <workItem from="1703603262948" duration="5900000" />
     </task>
     <servers />
   </component>
